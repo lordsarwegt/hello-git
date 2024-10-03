@@ -1,1 +1,1 @@
-print('Pinche madre')
+print('Necesito trabajooooo')
